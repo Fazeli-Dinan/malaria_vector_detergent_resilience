@@ -13,10 +13,18 @@ This repository contains the R scripts used for generating normal distribution p
 ├── README.md                           # This file
 ├── LICENSE                             # MIT License
 └── scripts/
-    ├── normal_distribution_rm.R        # Figure 6a: Intrinsic Rate of Increase (rm)
-    ├── normal_distribution_lambda.R    # Figure 6b: Finite Rate of Increase (λ)
-    └── normal_distribution_R0.R        # Figure 6c: Net Reproductive Rate (R₀)
-```
+    ├── normal_distribution_rm.R
+    ├── normal_distribution_lambda.R
+    ├── normal_distribution_R0.R
+    ├── composite_resilience_index.R
+    ├── radar_plot.R
+    ├── malaria_transmission_potential.R
+    ├── malaria_sigmoid_transmission.R
+    ├── age_stage_life_expectancy.R
+    ├── life_table_parameters.R
+    ├── age_stage_survival.R
+    └── age_stage_reproductive_value.R       # Age-stage reproductive value (vxj)
+
 
 ---
 
