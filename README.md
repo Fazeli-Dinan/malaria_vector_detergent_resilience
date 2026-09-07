@@ -100,8 +100,9 @@ If you use this code in your research, please cite the associated manuscript:
 
 For questions or requests, please contact the corresponding author:
 
-- **Prof. Dr. ...**
-- Email: aenayati1372@gmail.com
+- ** Dr. Mahmoud Fazeli-Dinan**
+- Associate professor of Entomology
+- Email: fazelidinan@gmail.com
 - Department of Medical Entomology, Mazandaran University of Medical Sciences
 
 ---
