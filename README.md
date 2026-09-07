@@ -109,7 +109,7 @@ For questions or requests, please contact the corresponding author:
 
 ##  Zenodo DOI
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22611451.svg)](https://doi.org/10.5281/zenodo.22611451)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22629348.svg)](https://doi.org/10.5281/zenodo.22629348)
 
 ---
 
